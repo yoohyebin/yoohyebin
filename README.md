@@ -30,7 +30,25 @@ I want to be a growing developer.<br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <br>
+</p>
+ 
+<br><hr>
+  
+<h3 align="center"> 🐢 BOJ Stats 🐢 </h3>
+<div align="center">
+   
+  <a href="https://solved.ac/99dbgpqls"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=99dbgpqls" /></a> 
+</div>
 
+  <br><hr>
+<h3 align="center"> 👨🏻‍💻 My Github Stats 👨🏻‍💻 </h3>
+<div align="center">
+  <a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yoohyebin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,ff758c,ff7eb3&title_color=fff&text_color=fff&icon_color=fff" alt="Hyebin's github stats" /></a>
+<br>
+
+<a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=30,ff7eb3,ff758c&title_color=fff&text_color=fff" /></a> 
+   </div>
+   
 ### 💪 Skills
 #### Platforms & Languages
 <p>
@@ -47,4 +65,4 @@ I want to be a growing developer.<br>
 <br>
 
 <a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=30,ff7eb3,ff758c&title_color=fff&text_color=fff" /></a> 
-<a href="https://solved.ac/99dbgpqls"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=99dbgpqls" /></a> 
+
