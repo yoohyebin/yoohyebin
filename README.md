@@ -7,5 +7,4 @@
 #### Tools
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoohyebin&show_icons=true&theme=radical)
-[![Solved.ac
-99dbgpqls](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=99dbgpqls)](https://solved.ac/99dbgpqls)
