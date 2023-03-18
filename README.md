@@ -8,8 +8,8 @@ Also, I'm learning ReactNative with JavaScript.<br>
 
 ddkfjkd<br>
 I want to be a growing developer.<br>
-<p></p>
-<p></p>
+<br>
+
 
 ### 💪 Skills
 #### Platforms & Languages
