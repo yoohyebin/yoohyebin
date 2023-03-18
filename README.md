@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,100:fed6e3&height=270&section=header&text=Yoo%20Hyebin&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f794a4,100:fdd6bd&height=270&section=header&text=Yoo%20Hyebin&fontSize=70&animation=twinkling)
 
 <a href="https://codingga-dingga.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff7eb3?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:hyebin218@naver.com" target="_blank"><img src="https://img.shields.io/badge/hyebin218@naver.com-ff758c?style=flat-square&logo=Gmail&logoColor=white"/></a>
