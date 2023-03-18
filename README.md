@@ -42,14 +42,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kali Linux
--557C94?style=flat-square&logo=Kali Linux
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux
 &logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ubuntu
--E95420?style=flat-square&logo=Ubuntu
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu
 &logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Raspberry Pi
--A22846?style=flat-square&logo=Raspberry Pi
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi
 &logoColor=white"/></a>&nbsp
 </p>
  
