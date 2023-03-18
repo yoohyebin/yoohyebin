@@ -5,6 +5,13 @@
 
 ### 💪 Skills
 #### Platforms & Languages
+<img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=Quarkus&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+
 
 #### Tools
 <a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yoohyebin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,fad0c4,ffd1ff&title_color=fff&text_color=fff&icon_color=fff" alt="Hyebin's github stats" /></a>
