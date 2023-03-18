@@ -15,7 +15,7 @@
 <h3 align="center"> 💪 Skills 💪 </h3>
 <h4 align="center"> 💡 Main 💡 </h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-0000?style=for-the-badge&logo=Apple&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=Apple&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SwiftUI-0086c8?style=for-the-badge&logo=Swift&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>&nbsp
