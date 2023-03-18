@@ -1,3 +1,5 @@
+<a href="https://codingga-dingga.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-92a8d1?logo=facebook&logoColor=white&link=https://www.facebook.com/YebinKimakaVIVI)](https://codingga-dingga.tistory.com/)
 #### 👋 Hi there! I'm moblie app developer using iOS
 
 
