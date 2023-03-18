@@ -1,5 +1,5 @@
 <a href="https://codingga-dingga.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-fad0c4?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-92a8d1?logo=facebook&logoColor=white&link=https://www.facebook.com/YebinKimakaVIVI)](https://codingga-dingga.tistory.com/)
+<a href="mailto:hyebin218@naver.com" target="_blank"><img src="https://img.shields.io/badge/hyebin218@naver.com-ffd1ff?style=flat-square&logo=Gmail&logoColor=white"/></a>
 #### 👋 Hi there! I'm moblie app developer using iOS
 
 
