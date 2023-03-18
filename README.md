@@ -3,10 +3,9 @@
 <a href="https://hyebin218.notion.site/About-Hyebin-f91d225d7aef4b7595c37220d8defb0a" target="_blank"><img src="https://img.shields.io/badge/About_Hyebin-ff7eb3?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <br>
 
-<p>
-  👋 Hi there! I'm iOS developer!🍎
-  Also, I'm learning ReactNative with JavaScript.
-</p>
+👋 Hi there! I'm iOS developer!🍎<br>
+Also, I'm learning ReactNative with JavaScript.
+<br>
 
 ### 💪 Skills
 #### Platforms & Languages
