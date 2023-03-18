@@ -9,4 +9,4 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=99dbgpqls)](https://solved.ac/99dbgpqls)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&theme=onedark)
+<a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=30,ffd1ff,fad0c4&title_color=fff&text_color=fff" /></a> 
