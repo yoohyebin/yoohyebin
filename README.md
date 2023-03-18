@@ -1,12 +1,13 @@
 <a href="https://codingga-dingga.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff7eb3?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:hyebin218@naver.com" target="_blank"><img src="https://img.shields.io/badge/hyebin218@naver.com-ff758c?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/About_Hyebin-ff758c?style=flat-square&logo=Gmail&logoColor=white"/></a>
 #### 👋 Hi there! I'm moblie app developer using iOS
 
 
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
