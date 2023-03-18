@@ -19,4 +19,6 @@
 <br>
 
 <a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=30,ffd1ff,fad0c4&title_color=fff&text_color=fff" /></a> 
+
+<a href="https://solved.ac/99dbgpqls"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=99dbgpqls" /></a> 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=99dbgpqls)](https://solved.ac/99dbgpqls)
