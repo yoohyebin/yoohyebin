@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=0:f794a4,100:fdd6bd&height=270&section=header&text=Hyebin's%20Githb&fontSize=70&fontColor=fff&animation=twinkling)
 
-<a href="https://codingga-dingga.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff7eb3?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="mailto:hyebin218@naver.com" target="_blank"><img src="https://img.shields.io/badge/hyebin218@naver.com-ff758c?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://hyebin218.notion.site/About-Hyebin-f91d225d7aef4b7595c37220d8defb0a" target="_blank"><img src="https://img.shields.io/badge/About_Hyebin-ff7eb3?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<p align="center">
+  <a href="https://codingga-dingga.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff7eb3?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:hyebin218@naver.com" target="_blank"><img src="https://img.shields.io/badge/hyebin218@naver.com-ff758c?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://hyebin218.notion.site/About-Hyebin-f91d225d7aef4b7595c37220d8defb0a" target="_blank"><img src="https://img.shields.io/badge/About_Hyebin-ff7eb3?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+</p>
 <br>
-
 
 <h4 align="center"> 👋 Hi there! I'm iOS developer! 🍎 </h3>
 <h4 align="center"> Also, I'm learning ReactNative with JavaScript. </h4>
