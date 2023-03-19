@@ -63,5 +63,5 @@
  <a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=30,ff9a9e,fecfef&title_color=ff7eb3&text_color=fff" /></a> 
 <br>
 
-<a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yoohyebin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,fdcbf1,e6dee9&title_color=ff758c&text_color=fff&icon_color=fff" alt="Hyebin's github stats" /></a>
+<a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yoohyebin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,f794a4,fdd6bd&title_color=ff758c&text_color=fff&icon_color=fff" alt="Hyebin's github stats" /></a>
 </div>
