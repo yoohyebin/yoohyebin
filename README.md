@@ -60,7 +60,7 @@
 <h3 align="center"> 👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 <div align="center">
 
- <a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=30,ffdde1,ee9ca7&title_color=ff758c&text_color=fff" /></a> 
+ <a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=30,FDE1F4,fbb1bd&title_color=ff758c&text_color=fff" /></a> 
 <br>
 
 <a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yoohyebin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,fbb1bd,FDE1F4&title_color=ff758c&text_color=fff&icon_color=ff758c" alt="Hyebin's github stats" /></a>
