@@ -54,6 +54,7 @@
 <div align="center">
    
 <a href="https://solved.ac/99dbgpqls"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=99dbgpqls" /></a> 
+ <img src="http://mazandi.herokuapp.com/api?handle=99dbgpqls&theme=warm"/>
 </div>
 
 <br><hr>
