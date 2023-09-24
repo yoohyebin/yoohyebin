@@ -8,7 +8,7 @@
 </p>
 <br>
 
-<h4 align="center"> 👋 Hi there! I'm iOS developer! 🍎 </h3>
+<h4 align="center"> 👋 Hi there! I'm iOS developer! 🍎 </h4>
 <h4 align="center"> Also, I'm learning ReactNative with JavaScript. </h4>
 
 <h4 align="center"> I want to be a growing developer. </h4>
