@@ -48,33 +48,25 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
 </p>
- 
-<br><hr>
-  
-<h3 align="center"> 💎 BOJ Stats 💎 </h3>
-<div align="center">
-<p align="center">  
-  <a href="https://solved.ac/99dbgpqls"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=99dbgpqls" /></a> <br>
-
-   <img src="http://mazandi.herokuapp.com/api?handle=99dbgpqls&theme=warm"/><br>
-  </p>
-</div>
-
-<br>
-
-<h3 align="center"> 🌳 Code Tree 🌳 </h3>
-<div align="center">
-  
-[![](https://banner.codetree.ai/v1/banner/99dbgpqls)](https://www.codetree.ai/profiles/99dbgpqls)
-
-</div>
-
 <br><hr>
 <h3 align="center"> 👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 <div align="center">
-
- <a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=50,FDE1F4,fbb1bd&title_color=ff758c&text_color=fff" /></a> 
-<br>
-
-<a href="https://github.com/yoohyebin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yoohyebin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=50,fbb1bd,FDE1F4&title_color=ff758c&text_color=fff&icon_color=ff758c" alt="Hyebin's github stats" /></a>
+<img width height = "150" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=50,FDE1F4,fbb1bd&title_color=ff758c&text_color=fff">
+  
+<img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=yoohyebin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=50,fbb1bd,FDE1F4&title_color=ff758c&text_color=fff&icon_color=ff758c">
 </div>
+
+###  💎 Released Apps
+<ol>
+  <li>
+    <p> 
+      <img width = "25" src="https://github.com/user-attachments/assets/a6059ab6-642b-4e25-acc7-5bb9e8df8a62" align="center"> 
+        <a href = "https://apps.apple.com/kr/app/outline-%EC%95%84%EC%9B%83%EB%9D%BC%EC%9D%B8-gps-art-%EC%95%B1/id6471041315">  Outline </a> 
+    </p> 
+  </li>
+  
+  <ul>
+    <li>🏃🏻‍♀️ GPS Art 러닝 가이드</li>
+    <li>🥇 예비 창업 패키지 선정</li>
+  </ul>
+</ol>
