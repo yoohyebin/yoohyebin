@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
 </p>
-<br><hr>
+
 <h3 align="center"> 👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 <div align="center">
 <img width height = "150" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyebin&layout=compact&hide_border=true&bg_color=50,FDE1F4,fbb1bd&title_color=ff758c&text_color=fff">
@@ -56,7 +56,9 @@
 <img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=yoohyebin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=50,fbb1bd,FDE1F4&title_color=ff758c&text_color=fff&icon_color=ff758c">
 </div>
 
-###  💎 Released Apps
+<br><hr>
+
+<h3> 💎 Released Apps </h3>  
 <ol>
   <li>
     <p> 
@@ -68,5 +70,28 @@
   <ul>
     <li>🏃🏻‍♀️ GPS Art 러닝 가이드</li>
     <li>🥇 예비 창업 패키지 선정</li>
+  </ul>
+
+  <li>
+      <p> 
+        <img width = "25" src="https://github.com/user-attachments/assets/d0b4bf39-5124-486f-901f-1478fc8e11dc" align="center"> 
+          <a href = "https://apps.apple.com/kr/app/%EC%88%B2%ED%86%A0%EB%A6%AC/id6502944860">  숲토리 </a> 
+      </p> 
+  </li>
+    
+  <ul>
+    <li>🌳 은둔 청년 생활습관 개선 앱</li>
+    <li>🥇 2023 새싹톤 장려상 수상</li>
+  </ul>
+
+  <li>
+    <p> 
+      <img width = "25" src="https://github.com/user-attachments/assets/05fce10f-0887-41d2-b7a5-f684cbb35308" align="center"> 
+        <a href = "https://apps.apple.com/kr/app/moondiary/id6464289799">  MoonDiary </a> 
+    </p> 
+  </li>
+  
+  <ul>
+    <li>🌕 달을 통해 하루를 기록하는 다이어리 앱</li>
   </ul>
 </ol>
